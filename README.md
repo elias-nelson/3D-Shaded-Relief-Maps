@@ -1,6 +1,6 @@
 <h1 style="font-weight:normal" align="center">3D Shaded Relief Maps</h1>
 
-Find in this repository my  3D shaded relief visualisations using [Rayshader](https://www.rayshader.com/) package in R.
+Find in this repository my  3D shaded relief visualisations using the [Rayshader](https://www.rayshader.com/) package in <img src="https://www.r-project.org/logo/Rlogo.svg" alt="R" style="height:1em; vertical-align:-0.1em;">.
 
 <details open><summary><b>Shaded Relief Maps</b></summary>
 
