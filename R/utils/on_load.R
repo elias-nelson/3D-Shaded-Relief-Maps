@@ -1,7 +1,7 @@
 
 # Functions starting with '.' won't show up in the environment window
 # but will be available in the GLOBALENV
-.new_portrait <- function(map, 
+.new_template <- function(map, 
                           template = NULL,
                           open_editor = TRUE) {
   
@@ -42,6 +42,6 @@
 
 cat(
   crayon::bold(
-    crayon::cyan("Use `.new_portrait()` to start working on a new portrait.\n")
+    crayon::cyan("Use `.new_template()` to start working on a new portrait.\n")
   )
 )
